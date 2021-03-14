@@ -47,3 +47,6 @@ Add here credits. Project inspired by..., based on...
 
 ## Contact
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+
+## Also worth checking this usefull Markdown Cheat-Sheet article:
+[GitHub Markdown Cheat Sheet : Definitive Guide with Example + Resources](https://hello-sunil.in/github-readme-markdown-cheatsheet/)
